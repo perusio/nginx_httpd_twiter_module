@@ -1,0 +1,3 @@
+sudo ./configure  --prefix=/usr/local/nginx  --with-http_flv_module --with-http_dav_module  --with-http_gzip_static_module --add-module=/Users/toyamaseiji/workspace/C/nginx-module
+sudo make 
+sudo install
